@@ -1,6 +1,12 @@
 # AI_Agents_Utils
 AI Agents Utils
 
+#  multi-agent systems
+
+1. CrewAI
+2. AutoGen (ag2)
+3. Langgraph & Langchain tools
+4. OpenAI Swarm
 
 
 
